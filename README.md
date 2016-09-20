@@ -1,0 +1,6 @@
+# text-20game
+Classadoo generated repo
+//THIS IS A THING
+//YoU CAN DO OTHER THINGS WITH THE THING
+//BUT YOU CANT DO MANY THINGS
+//YEAH
